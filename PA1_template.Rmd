@@ -6,7 +6,7 @@ output: html_document
 ---
 
 
-###Loading and Preprocessing the Data to create tidy data set
+###Loading and Preprocessing the Data to create tidy data set 
 
 ```{r}
 library(lattice)
